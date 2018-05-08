@@ -1,1 +1,1 @@
-# simple-scripts
+Just some simple PHP scripts for information gathering. All depend on PHP Simple HTML DOM Parser.
